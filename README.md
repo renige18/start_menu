@@ -10,9 +10,9 @@ JDBC, Firebase 모두 수용가능한 인터페이스를 이용한 설계 및 �
 * # 요구사항 정의서
 ![image](https://user-images.githubusercontent.com/80032533/118573224-11301d80-b7bd-11eb-9fc4-025313439547.png)
 * #  설계서
-## - 아키텍쳐
+* ## 아키텍쳐
 ![image](https://user-images.githubusercontent.com/80032533/118573251-22792a00-b7bd-11eb-8b62-dd85a4e01d46.png)
-## - 시퀀스 다이어그램
+## * 시퀀스 다이어그램
 ![image](https://user-images.githubusercontent.com/80032533/118573267-29a03800-b7bd-11eb-8057-44731b1b2dd3.png)
 
 
